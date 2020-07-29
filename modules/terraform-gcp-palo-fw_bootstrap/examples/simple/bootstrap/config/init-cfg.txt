@@ -1,0 +1,17 @@
+type=dhcp-client
+
+ipv6-address=
+ipv6-default-gateway=
+hostname=panos-01
+panorama-server=
+panorama-server-2=
+tplname=
+dgname=
+dns-primary=
+dns-secondary=
+op-command-modes=
+dhcp-send-hostname=
+dhcp-send-client-id=
+dhcp-accept-server-hostname=
+dhcp-accept-server-domain=
+vm-auth-key=
